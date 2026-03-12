@@ -26,23 +26,23 @@ The goal of MobiZen-GUI is to make it easier—and faster—to build and ship Mo
 
 Instruction: 打开12306，帮我订一张本周六早上八点零八分从济南出发到上海的高铁票，只看高铁和动车, 预定二等座 (Open the 12306 app and book a high-speed train ticket for me from Jinan to Shanghai this Saturday at 8:08 AM.  Only show high-speed and bullet trains, and book a second-class seat)
 
-**[Click to view demo video](./demo/video_1_compressed.mp4)**
+**[Click to view demo video](./demo/video_1_compressed.gif)**
 
 Instruction: 打开哔哩哔哩，开启睡眠提醒 (Open Bilibili and enable sleep reminders)
 
-**[Click to view demo video](./demo/video_2_compressed.mp4)**
+**[Click to view demo video](./demo/video_2_compressed.gif)**
 
 Instruction: 打开小红书，在"我"的页面里 查看关注列表，并把关注列表的第三个人取消关注；然后回到"首页"的发现页面，搜索"派大星"然后进入"用户"tab，关注第二个账号；最后回到手机主页面，在拼多多里面搜 索"儿童成长牛奶"并查看第一个商品的用户评价，然后回到手机主页面 (Open Xiaohongshu, go to your profile page and view your following list, then unfollow the third person on the list; then go back to the "Homepage" discovery page, search for "Patrick Star," and go to the "Users" tab, and follow the second account; finally, return to your phone's home screen, search for "children's growth milk" on Pinduoduo and view the user reviews of the first product, then return to your phone's home screen)
 
-**[Click to view demo video](./demo/video_3_compressed.mp4)**
+**[Click to view demo video](./demo/video_3_compressed.gif)**
 
 Instruction: 打开计算器，计算5.5535*3.33 (Open the calculator and calculate 5.5535 * 3.33)
 
-**[Click to view demo video](./demo/video_4_compressed.mp4)**
+**[Click to view demo video](./demo/video_4_compressed.gif)**
 
 Instruction: 去飞猪查询2月27日去，3月4日回，广州到莫斯科的往返机票, 无需购买 (Check on Fliggy for round-trip flights from Guangzhou to Moscow, departing on February 27th and returning on March 4th. No purchase is required)
 
-**[Click to view demo video](./demo/video_5_compressed.mp4)**
+**[Click to view demo video](./demo/video_5_compressed.gif)**
 
 ## Prerequisites
 
