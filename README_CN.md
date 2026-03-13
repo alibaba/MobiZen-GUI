@@ -25,20 +25,43 @@ MobiZen-GUI 的目标是让 **移动 GUI 智能体** 的开发与部署更加快
 ## 应用演示
 
 - **指令**：打开12306，帮我订一张本周六早上八点零八分从济南出发到上海的高铁票，只看高铁和动车, 预定二等座
+
   **[点击查看演示视频](./demo/video_1_compressed.gif)**
 
+  <div style="display: flex; align-items: left; justify-content: left; width: 80%; margin: 0 auto;">
+    <img src="demo/video_1_compressed.gif" alt="High-speed rail ticket booking demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+  </div>
+<br><br>
 - **指令**：打开哔哩哔哩，开启睡眠提醒  
   **[点击查看演示视频](./demo/video_2_compressed.gif)**
 
-- **指令**：  
-  打开小红书，在"我"的页面里 查看关注列表，并把关注列表的第三个人取消关注；然后回到"首页"的发现页面，搜索"派大星"然后进入"用户"tab，关注第二个账号；最后回到手机主页面，在拼多多里面搜 索"儿童成长牛奶"并查看第一个商品的用户评价，然后回到手机主页面 
+  <div style="display: flex; align-items: left; justify-content: left; width: 80%; margin: 0 auto;">
+    <img src="demo/video_2_compressed.gif" alt="open bilibili sleep reminder demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+  </div>
+<br><br>
+- **指令**：打开小红书，在"我"的页面里 查看关注列表，并把关注列表的第三个人取消关注；然后回到"首页"的发现页面，搜索"派大星"然后进入"用户"tab，关注第二个账号；最后回到手机主页面，在拼多多里面搜 索"儿童成长牛奶"并查看第一个商品的用户评价，然后回到手机主页面 
+
   **[点击查看演示视频](./demo/video_3_compressed.gif)**
 
+  <div style="display: flex; align-items: left; justify-content: left; width: 80%; margin: 0 auto;">
+    <img src="demo/video_3_compressed.gif" alt="open xiaohongshu demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+  </div>
+<br><br>
 - **指令**：打开计算器，计算5.5535*3.33
+
   **[点击查看演示视频](./demo/video_4_compressed.gif)**
 
+  <div style="display: flex; align-items: left; justify-content: left; width: 80%; margin: 0 auto;">
+    <img src="demo/video_4_compressed.gif" alt="calculator demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+  </div>
+<br><br>
 - **指令**：去飞猪查询2月27日去，3月4日回，广州到莫斯科的往返机票, 无需购买
+
   **[点击查看演示视频](./demo/video_5_compressed.gif)**
+
+  <div style="display: flex; align-items: left; justify-content: left; width: 80%; margin: 0 auto;">
+    <img src="demo/video_5_compressed.gif" alt="flight ticket demo" style="flex: 1; height: 400px; object-fit: contain; margin-right: 1px;"/>
+  </div>
 
 ---
 
@@ -352,3 +375,11 @@ adb devices
 ## 许可证
 
 Apache License 2.0
+
+## 联系我们
+
+如有问题，请加入微信群联系我们
+
+| WeChat Group |
+|:-------------------------:|
+| <img src="images/wechat_group.png" width="200"> |
