@@ -4,7 +4,7 @@
 🌐 <a href="https://huggingface.co/alibabagroup/MobiZen-GUI-4B">模型（Hugging Face）</a>  |
 🌐 <a href="https://modelscope.cn/models/GUIAgent/MobiZen-GUI-4B">模型（ModelScope）</a>  |
 💻 <a href="./demo/">演示</a>  |
-📄 <a href="https://github.com/alibaba">中文轨迹数据</a>
+📄 <a href="https://huggingface.co/datasets/alibabagroup/CMGUI">中文轨迹数据</a>
 </p>
 
 <p align="center">
@@ -368,7 +368,7 @@ adb devices
 ## ToDo
 
 - ✅ 发布 GUI 模型 [MobiZen-GUI-4B](https://huggingface.co/alibabagroup/MobiZen-GUI-4B)
-- ☐ 发布高质量的中文轨迹训练/评测语料库及对应的评测代码
+- ✅ 发布高质量的[中文轨迹训练/评测语料库](https://huggingface.co/datasets/alibabagroup/CMGUI)
 - ☐ 为热门的 OpenClaw 项目编写 skill.md
 - ☐ 支持更多 GUI 模型，例如 MAI-UI、Qwen 3.5、GeLab-Zero
 

@@ -4,7 +4,7 @@
 🌐 <a href="https://huggingface.co/alibabagroup/MobiZen-GUI-4B">Model in Hugging Face</a>  |
 🌐 <a href="https://modelscope.cn/models/GUIAgent/MobiZen-GUI-4B">Model in ModelScope</a>  |
 💻 <a href="./demo/">Demo</a>  |
-📄 <a href="https://github.com/alibaba">Chinese Trajectory Data</a>
+📄 <a href="https://huggingface.co/datasets/alibabagroup/CMGUI">Chinese Trajectory Data</a>
 </p>
 
 <p align="center">
@@ -352,7 +352,7 @@ adb devices
 ## Todo
 
 - ✅ Release the GUI model [MobiZen-GUI-4B](https://huggingface.co/alibabagroup/MobiZen-GUI-4B)
-- ☐ Release the high-quality training and evaluation corpus of Chinese trajectory data and corresponding evaluation code
+- ✅ Release the high-quality training and evaluation corpus of [Chinese trajectory data](https://huggingface.co/datasets/alibabagroup/CMGUI)
 - ☐ Construct a skill.md for the popular OpenClaw
 - ☐ Support more GUI models, such as MAI-UI, Qwen3.5, GeLab-Zero
 
