@@ -21,8 +21,8 @@ The goal of MobiZen-GUI is to make it easier—and faster—to build and ship Mo
   - A 4-billion-parameter agent that runs completely on your own desktop or laptop.
   - Fast execution speed, relying only on a single image and historical actions. It relies solely on a single current image and historical actions, requiring no additional information, resulting in fast execution speed.
   - A turnkey inference kit that auto-handles ADB links and pulls in every required library.
-  - [CMGUI]((https://huggingface.co/datasets/alibabagroup/CMGUI)): large-scale, high-quality dataset for Chinese mobile GUI agents, including 18k trajectories, 98k steps across 50+ real apps in e-commerce, social, and local-service domains; fully human-verified with precise bounding boxes.
-  - [CMGUI-Bench]((https://huggingface.co/datasets/alibabagroup/CMGUI)): 386 human-verified navigation episodes, 2,547 steps from 44 popular Chinese apps; includes multi-choice action labels to evaluate agents when multiple valid GUI interactions exist.
+  - [CMGUI](https://huggingface.co/datasets/alibabagroup/CMGUI): large-scale, high-quality dataset for Chinese mobile GUI agents, including 18k trajectories, 98k steps across 50+ real apps in e-commerce, social, and local-service domains; fully human-verified with precise bounding boxes.
+  - [CMGUI-Bench](https://huggingface.co/datasets/alibabagroup/CMGUI): 386 human-verified navigation episodes, 2,547 steps from 44 popular Chinese apps; includes multi-choice action labels to evaluate agents when multiple valid GUI interactions exist.
 
 ## Application Demonstrations
 
