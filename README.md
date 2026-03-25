@@ -355,7 +355,7 @@ adb devices
 
 - ✅ Release the GUI model [MobiZen-GUI-4B](https://huggingface.co/alibabagroup/MobiZen-GUI-4B)
 - ✅ Release the high-quality training and evaluation corpus of [Chinese trajectory data](https://huggingface.co/datasets/alibabagroup/CMGUI)
-- ☐ Construct a skill.md for the popular OpenClaw
+- ✅ Construct a [skill](./skills/SKILL.md) for the popular OpenClaw, or download from [ClawHub](https://clawhub.ai/xjx0524/mobizen-gui)
 - ☐ Support more GUI models, such as MAI-UI, Qwen3.5, GeLab-Zero
 
 ## License
