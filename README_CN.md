@@ -371,7 +371,7 @@ adb devices
 
 - ✅ 发布 GUI 模型 [MobiZen-GUI-4B](https://huggingface.co/alibabagroup/MobiZen-GUI-4B)
 - ✅ 发布高质量的[中文轨迹训练/评测语料库](https://huggingface.co/datasets/alibabagroup/CMGUI)
-- ☐ 为热门的 OpenClaw 项目编写 skill.md
+- ✅ 为热门的 OpenClaw 项目编写 [skill.md](./skills/SKILL.md)，或者从ClawHub[下载](https://clawhub.ai/xjx0524/mobizen-gui)
 - ☐ 支持更多 GUI 模型，例如 MAI-UI、Qwen 3.5、GeLab-Zero
 
 ## 许可证
